@@ -1,7 +1,7 @@
 # 햄스터 똥치우기 게임
 
 <center>
-<img width="200"  src="hamster-readme.gif"/>
+<img width="200"  src="docs/hamster-readme.gif"/>
 
 햄스터의 똥을 치우며 점수를 획득할 수 있는 미니게임입니다.</b> <br />
 
